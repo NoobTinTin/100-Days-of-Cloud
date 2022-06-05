@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image]([https://via.placeholder.com/1200x600](https://www.google.com/url?sa=i&url=https%3A%2F%2Fappuals.com%2Fwhat-is-git-bash%2F&psig=AOvVaw1wiasH1nXQTBm7sRWLfpIL&ust=1654524317556000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiuzcW9lvgCFQAAAAAdAAAAABAD))
 
 # New post title here
 
